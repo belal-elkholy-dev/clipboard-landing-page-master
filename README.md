@@ -95,3 +95,9 @@ For this project, I used **Google Gemini** as a strict "Tech Lead" and code revi
 - **How I used it:** Instead of asking for code generation, I submitted my code for deep-dive reviews. I asked Gemini to scrutinize my work line-by-line for redundant CSS, specific layout bugs, and overall architecture.
 - **What worked well:** This approach helped me uncover logical bugs (like nesting block elements inside) `
 ```
+
+## Author
+
+- GitHub - [belal-elkholy-dev](https://github.com/belal-elkholy-dev)
+- Frontend Mentor - [@belal-elkholy-dev](https://www.frontendmentor.io/profile/belal-elkholy-dev)
+- LinkedIn - [Belal Elkholy](https://www.linkedin.com/in/belal-elkholy-64ab0b216/)
