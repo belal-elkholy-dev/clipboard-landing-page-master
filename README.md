@@ -27,12 +27,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.png)
-_(Note: Replace `screenshot.png` with the actual path to your project screenshot)_
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here]
-- Live Site URL: [Add your Live Site URL here e.g., Vercel or GitHub Pages]
+- Solution URL: [GitHub Repository](https://github.com/belal-elkholy-dev/clipboard-landing-page-master)
+- Live Site URL: [Vercel Live Site](https://clipboard-landing-page-master-fawn.vercel.app/)
 
 ## My process
 
