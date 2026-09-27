@@ -1,0 +1,86 @@
+/* Start Component */
+.heading {
+  color: var(--c-heading);
+  margin-bottom: 1.25rem;
+}
+.para {
+  color: var(--c-para);
+  line-height: 1.7;
+}
+.btn-shape {
+  padding: 0.9375rem;
+  font-weight: 600;
+  border-radius: 25px;
+}
+.p-links {
+  padding: 10px 0;
+}
+/* End Component */
+/* Starting Padding & Margin */
+.section-p {
+  padding: 4.625rem 0;
+}
+.mt-0 {
+  margin-top: 0;
+}
+.mb-20 {
+  margin-bottom: 1.25rem;
+}
+.mb-40 {
+  margin-bottom: 2.5rem;
+}
+.mb-50 {
+  margin-bottom: 3.125rem;
+}
+/* End Padding & Margin */
+/* Start text */
+.txt-c {
+  text-align: center;
+}
+.c-white {
+  color: white;
+}
+.c-heading {
+  color: hsl(210, 10%, 33%);
+}
+.c-para {
+  color: hsl(201, 11%, 66%);
+}
+.bg-ios {
+  background-color: hsl(171, 66%, 44%);
+}
+.bg-mac {
+  background-color: hsl(233, 100%, 69%);
+}
+/* End text */
+/* Start display */
+.d-block {
+  display: block;
+}
+.d-flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.justify-center {
+  justify-content: center;
+}
+.gap-20 {
+  gap: 1.25rem;
+}
+.gap-40 {
+  gap: 2.5rem;
+}
+.gap-50 {
+  gap: 4.125rem;
+}
+/* End display */
+/* Start Width & Height */
+.mw-full {
+  max-width: 100%;
+}
+.w-120 {
+  width: 120px;
+}
+/* End Width & Height */
