@@ -76,12 +76,12 @@ I learned why forcing `height: 100vh` on the Hero section is a bad practice for 
 I solidified my understanding of image constraints, specifically preferring `max-width: 100%` over `width: 100%` to ensure images scale down perfectly on mobile but never stretch beyond their original resolution on large desktop screens.
 
 **4. CSS Grid without Media Queries:**
-Achieved a fully responsive features grid utilizing `minmax`:
+Achieved a fully responsive features grid utilizing `minmax` and the `min()` function to prevent overflow on extremely small screens:
 
 ```css
 .supercharge .features-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(250px, 100%), 1fr));
   gap: 3.125rem;
 }
 
